@@ -8,6 +8,7 @@ Zur Ausführung das Repository klonen, eine virtuelle Umgebung (nlp_env) anglege
 - Vektorisierung
 - Themenmodellierung
 - Visualisierung
+  
 ausführen.
 
 Jedes Notebook lädt seine Eingabedaten aus dem jeweils vorangegangenen Checkpoint im Ordner "output" und speichert dort auch seine eigenen Ergebnisse ab, sodass der gesamte Ablauf nachvollzeihbar reporduzierbar ist.
